@@ -1,0 +1,48 @@
+*,
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+html,
+div {
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+body {
+  background-image: url('Screenshot\ \(6\).png');
+  background-size: cover;
+}
+
+h1,
+h2,
+h3,
+p,
+a {
+  color: white;
+  text-align: center;
+}
+
+a {
+  color: white;
+}
+
+.centerbox {
+  width: 550px;
+  margin: 0 auto;
+  border: 1px solid #fdfdfd;
+  padding: 20px;
+  margin-top: 10px;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.avatar img {
+  border-radius: 50%;
+}
+
+.social {
+  margin: 10px auto;
+  color: #fdfdfd;
+}
